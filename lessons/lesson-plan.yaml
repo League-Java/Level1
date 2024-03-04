@@ -1,0 +1,24 @@
+base: /BaseUrl/
+description: A Demo of the League Curriculum websites
+title: League Demo
+tagline: Igniting Young Minds Through Programming
+pages:
+  - index.md
+  - about.md
+resources:
+  - flag.png
+  - word-logo.png
+sidebar:
+  - path: /
+    title: Introduction
+lessons:
+  
+  lesson1:
+    title: Getting Started # neet a title b/c there is no index.md
+    assignments:
+     - lesson1/assignment_a.md
+  lesson2:
+    # title: No Title # Don't need title, has index.md
+    assignments:
+    - lesson2/assignment_b.md
+

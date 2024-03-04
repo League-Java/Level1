@@ -1,0 +1,33 @@
+head:
+- - meta
+  - content: '#F37121'
+    name: theme-color
+- - meta
+  - content: true
+    name: apple-mobile-web-app-capable
+- - meta
+  - content: black
+    name: apple-mobile-web-app-status-bar-style
+- - link
+  - rel: shortcut icon
+    href: https://www.jointheleague.org/wp-content/uploads/2022/06/favicon-32x32-1.png
+    type: image/x-icon
+
+plugins:
+- '@vuepress/plugin-back-to-top'
+- '@vuepress/plugin-medium-zoom'
+themeConfig:
+  displayAllHeaders: false
+  docsDir: ''
+  editLinkText: ''
+  editLinks: false
+  lastUpdated: false
+  logo: /assets/Flag.png
+  nav:
+  - link: /about/
+    text: About
+  - link: https://jointheleague.org
+    text: The LEAGUE
+  repo: ''
+
+
