@@ -1,6 +1,6 @@
 base: /BaseUrl/
-description: A Demo of the League Curriculum websites
-title: League Demo
+description: Documentation and links for League Java Level 1
+title: Java Level 1
 tagline: Igniting Young Minds Through Programming
 pages:
 - index.md
