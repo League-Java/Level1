@@ -1,7 +1,8 @@
 
 
-# Other Microbit Lessons
+# Level 1
 
-* [Intro to CS With Microbit](https://makecode.microbit.org/courses/csintro)
-* [Microbit Games](https://github.com/dvilelaf/microbit-games)
-* [Microbit Arcade Games](https://github.com/makecode-extensions/arcade-games)
+
+## Updates
+
+Make changes to this website from the [Java-Modules](https://github.com/league-curriculum/java-modules) repo. 

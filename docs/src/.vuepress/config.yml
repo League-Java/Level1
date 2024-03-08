@@ -1,5 +1,5 @@
 base: /Level1/
-description: A Demo of the League Curriculum websites
+description: Documentation and links for League Java Level 1
 head:
 - - meta
   - content: '#F37121'
@@ -126,4 +126,4 @@ themeConfig:
       title: 99 Extra
     collapsable: false
     title: Module4
-title: League Demo
+title: Java Level 1
